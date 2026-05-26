@@ -1,0 +1,4 @@
+.vs/
+*.tsbuildinfo
+.DS_Store
+*.local
